@@ -1,5 +1,10 @@
 # streamlit_create_graph
 
+
+---
+
+#  I prepared requirements.txt, and then the deployment was successful.
+
 ---
 
 # Deploy Failure
